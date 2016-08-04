@@ -73,3 +73,5 @@ puts Transaction.all.count #previous return added a transaction, should return 3
 puts nanoblock.stock #stock should increate by 1
 
 
+p Transaction.find_by_customer(walter) #find all the transactions by one customer and print out results
+
