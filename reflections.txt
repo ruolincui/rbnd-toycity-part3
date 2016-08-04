@@ -1,0 +1,17 @@
+1. How long did you spend working on this project?
+
+Roughly 12 hours in total. 
+
+2. What was the most rewarding challenge you conquered?
+
+Actually getting started with the project. I had trouble with project at the beginning and lost confidence. The longer I waited, the more fearful I felt. 
+
+3. What two additional features did you build? Why?
+
+First feature is the return method. Transactions have default type as “purchase” and will be changed when customer returns the product. I added the feature because it’s very common in any retail store. 
+
+Second feature is a method to find transactions by customer so that we have a better track of a customer’s behavior. 
+
+4. Where do you still have room to grow?
+
+First of all my will power. Second, I need to practice more. During the long wait as I mentioned earlier, I started to forget some things I learned and had to trace back to previous lessons. I think to get better at programming needs a lot of practice. 

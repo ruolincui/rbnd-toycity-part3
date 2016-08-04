@@ -18,8 +18,6 @@ class Transaction
 	end
 
 
-
-
 	private
 
 	def add_to_transactions

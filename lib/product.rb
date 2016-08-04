@@ -37,9 +37,7 @@ class Product
 		end
 		return products_in_stock
 	end
-
-
-			
+		
 
 	private
 
@@ -67,9 +65,5 @@ class Product
 		end
 		return []
 	end
-
-
-
-		
 	
 end
